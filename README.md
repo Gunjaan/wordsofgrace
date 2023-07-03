@@ -1,6 +1,17 @@
-# loginauth
+# WORDS OF GRACE 
+"Words of Grace is a Flutter app designed to inspire and uplift users with a collection of beautiful quotes. The app showcases a stunning user interface built with Flutter, a powerful framework for developing cross-platform applications. With its elegant design and intuitive user experience, Words of Grace provides a serene space where users can discover meaningful quotes to make their lives prettier.
 
-A new Flutter project.
+The app fetches quotes from the 'https://type.fit/api/quotes' API, which offers a vast collection of quotes from various sources.
+
+## Snapshots
+
+<img width="250" alt="" src="https://github.com/Gunjaan/wordsofgrace/assets/74871887/39780bb2-cd19-4f9d-acc3-900bee0929a7">
+
+<img width="250" alt="" src="https://github.com/Gunjaan/wordsofgrace/assets/74871887/dadeece5-8a32-4ee5-b9da-0a4acdbe65b0">
+
+<img width="250" alt="" src="https://github.com/Gunjaan/wordsofgrace/assets/74871887/d0fe17cf-a1b3-403c-af0d-a3372c857a2f">
+
+<br>
 
 ## Getting Started
 
